@@ -2,9 +2,9 @@
 - 👀 I’m interested in Robotics.
 - 🌱 I’m currently learning C# and Phython.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: lucadeckel1810@gmail.com  
+- 📫 How to reach me: gar nicht :) 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I blew up the janitor's vacuum cleaner at my school xD
 
 <!---
 LucaDeckelmann/LucaDeckelmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
